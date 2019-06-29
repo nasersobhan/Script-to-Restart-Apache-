@@ -1,4 +1,4 @@
-# Script-to-Restart-Apache-
+# Shell Script to Restart Apache
 Simple Bash Script to Restart Apache when it fails, 
 
 
